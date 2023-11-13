@@ -11,7 +11,7 @@ const Index = () => {
 
         const lenis = new Lenis({
             content: lenisContentRef.current,
-            wrapper: lenisWrapperRef.current,
+            wrapper: lenisWrapperRef.current
         });
 
         const raf = (time: DOMHighResTimeStamp) => {
@@ -33,7 +33,7 @@ const Index = () => {
                 style={{
                     width: "100dvw",
                     height: "100dvh",
-                    overflowY: "scroll",
+                    overflowY: "scroll"
                 }}
             >
                 <div ref={lenisContentRef}>
