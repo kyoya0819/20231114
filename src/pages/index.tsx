@@ -37,110 +37,36 @@ const Index = () => {
                 }}
             >
                 <div ref={lenisContentRef}>
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a<br />
-                    a
+                    <div style={{
+                        width: "100%",
+                        height: "50vh",
+                        background: "black"
+                    }}/>
+                    <div style={{
+                        width: "100%",
+                        height: "50vh",
+                        background: "white"
+                    }}/>
+                    <div style={{
+                        width: "100%",
+                        height: "50vh",
+                        background: "black"
+                    }}/>
+                    <div style={{
+                        width: "100%",
+                        height: "50vh",
+                        background: "white"
+                    }}/>
+                    <div style={{
+                        width: "100%",
+                        height: "50vh",
+                        background: "black"
+                    }}/>
+                    <div style={{
+                        width: "100%",
+                        height: "50vh",
+                        background: "white"
+                    }}/>
                 </div>
             </div>
         </>
