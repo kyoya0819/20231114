@@ -28,7 +28,7 @@
         "@typescript-eslint/parser": "^5.57.0",
         "eslint": "^8.37.0",
         "eslint-config-next": "^13.2.4",
-        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-import": "^2.29.0",
         "postcss-scss": "^4.0.6",
         "prettier": "^2.8.7",
         "stylelint": "^15.4.0",
